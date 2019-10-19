@@ -71,10 +71,10 @@
         pg_env:
           PUID: '1000'
           PGID: '1000'
-          OPENVPN_PROVIDER: 'see available configs at https://git.io/fpCSF'
+          OPENVPN_PROVIDER: 'PIA'
           OPENVPN_CONFIG: 'default'
-          OPENVPN_USERNAME: 'vpnuser'
-          OPENVPN_PASSWORD: 'vpnpass'
+          OPENVPN_USERNAME: 'p4139177'
+          OPENVPN_PASSWORD: '5p5WvsiK5s'
           OPENVPN_OPTS: '--inactive 3600 --ping 10 --ping-exit 60'
           CREATE_TUN_DEVICE: 'true'
           WEBPROXY_ENABLED: 'true'
